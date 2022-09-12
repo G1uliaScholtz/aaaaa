@@ -11,5 +11,8 @@
 
 <body>
 
-   <hi id= "titulo"> tese de ttulo </h1>
+   <hi id= "titulo"> teste de ttulo </h1>
+             
+             <p syle= "fon size: 30px"> <em><strong> essa fase é um teste to vendo se funciona </strong></em> </p>
    
+             
